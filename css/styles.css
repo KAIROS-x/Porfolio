@@ -1,13 +1,8 @@
 h1 {text-align: center;}
-p {text-align: center; padding: 1px; padding-left: 1px; padding-right: 1px;   background-color: grey;}
-.img {float:left;}
-.img:hover
-.img {padding-left: 2px;}
-.img {border: maroon;}
-.img {width: 20%; height: 100px; }
-.fox {margin-left: auto; margin-right: auto; width: 85%; te}
-h2 .golf {float: left;}
+p {text-align: center; padding: 1px; padding-left: 1px; padding-right: 1px;   background-color: darkgrey;}
+.list-group {margin-left: auto; margin-right: auto; width: 85%; te}
+h2 {text-align: center;}
 p {font-size: 37px;}
-li {background-color: grey}
-body {background-color: tan}
-li:hover
+li {background-color: black}
+li {padding-left: 10px; }
+.img-fluid{max-width: 100%; height: auto;}
