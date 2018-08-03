@@ -1,0 +1,10 @@
+h1 {text-align: center;}
+p {text-align: center;}
+p {padding: 1px}
+p {padding-left: 1px}
+p {padding-right: 1px}
+p {background-color: grey}
+.img {float:left;}
+.img:hover
+.img {padding-left: 50px}
+.img {border: grey;}
