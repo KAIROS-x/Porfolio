@@ -1,10 +1,9 @@
 h1 {text-align: center;}
-p {text-align: center;}
-p {padding: 1px}
-p {padding-left: 1px}
-p {padding-right: 1px}
-p {background-color: grey}
+p {text-align: center; padding: 1px; padding-left: 1px; padding-right: 1px;   background-color: grey;}
 .img {float:left;}
 .img:hover
-.img {padding-left: 50px}
+.img {padding-left: 2px;}
 .img {border: grey;}
+.img {width: 20%; height: 100px; }
+.fox {margin-left: auto; margin-right: auto; width: 85%; te}
+h2 .golf {float: left;}
