@@ -3,7 +3,11 @@ p {text-align: center; padding: 1px; padding-left: 1px; padding-right: 1px;   ba
 .img {float:left;}
 .img:hover
 .img {padding-left: 2px;}
-.img {border: grey;}
+.img {border: maroon;}
 .img {width: 20%; height: 100px; }
 .fox {margin-left: auto; margin-right: auto; width: 85%; te}
 h2 .golf {float: left;}
+p {font-size: 45px;}
+li {background-color: grey}
+body {background-color: tan}
+li:hover 
