@@ -1,6 +1,6 @@
-# _{Porfolio}_
+# _Porfolio_
 
-#### _{The following HTML tags are all used: p, h, ul, ol, li, em, strong, a, img, div, span
+#### _The following HTML tags are all used: p, h, ul, ol, li, em, strong, a, img, div, span
 
 Project includes a custom-made stylesheet that uses cascading, the box model, and floats.
 
@@ -18,7 +18,7 @@ Project demonstrates an understanding of this week's concepts. If prompted, you 
 
 Bootstrap classes are used to style the page. his means explicitly using classes mentioned on this page, not just linking the Bootstrap stylesheet.
 
-Code is clean, well-refactored, and easy-to-read. This includes correct indendation, spacing, and including only necessary comments and debugging tools.}, {08/03/2018}_
+Code is clean, well-refactored, and easy-to-read. This includes correct indendation, spacing, and including only necessary comments and debugging tools. 08/03/2018_
 
 #### By _**{Dakota Alford}**_
 
@@ -27,22 +27,18 @@ Code is clean, well-refactored, and easy-to-read. This includes correct indendat
 
 * _Git hub access_
 
-_{uses bootstrap elements}_
+_uses bootstrap elements_
 
-## Known Bugs
-
-_{Inept in all forms of styling or knowledge of syntax}_
 
 ## Support and contact details
-
-_{Im sure if you run into any issues you will most likely know more about fixing it then myself.}_
+{https://github.com/SLYKOOP/Porfolio.git}
+_Dakota Alford_
 
 ## Technologies Used
 
-_{Limited bootstrap addons in some text and formatting.}_
+_Limited bootstrap addons in some text and formatting._
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
 Copyright (c) 2016 **_{List of contributors or company name}_**
